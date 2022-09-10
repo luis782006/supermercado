@@ -4,3 +4,7 @@
     width:100%;
     height: 300px;
 }
+.fichas img{
+    min-width: 20rem;
+    max-width: 30rem;
+}
